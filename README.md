@@ -13,7 +13,7 @@ Some of these methods appear on the [Coding Bat](http://codingbat.com/) website.
 
 ### Submission Requirements
 
-1. Use the following link to create your private github repository for this assignment. The repository will be seeded with the skeleton code, test cases, and input files. [Homework 6]()
+1. Use the following link to create your private github repository for this assignment. The repository will be seeded with the skeleton code, test cases, and input files. [Homework 6](https://classroom.github.com/a/wsfjwRdM)
 2. For full credit, make sure to follow all [Style Guidelines](https://github.com/CS514-F17/notes/blob/master/Admin/style.md). Points will be deducted for each violation.
 
 ### Grading Rubric
