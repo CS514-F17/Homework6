@@ -1,7 +1,7 @@
 Homework 6
 ==========
 
-### Due Friday, October 13, 2017 - 5:00PM
+### Due Friday, October 20, 2017 - 5:00PM
 
 In this homework, you will practice using recursion.
 
